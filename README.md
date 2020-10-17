@@ -3,8 +3,10 @@ This a blog app using **EJS** as a templating engine and the formating of blog c
 
 # Getting Started
 Fork this repo to your Local Environment and all the dependencies by entering the command
+
 ```npm install```
 Once you install all the dependencies you can run the app in your Local environment using
+
 ```npm run <appname>.js```
 
 # System Requirements
